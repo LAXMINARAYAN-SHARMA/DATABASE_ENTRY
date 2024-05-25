@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703446260626",
+    "project_id": "restart-13716",
+    "storage_bucket": "restart-13716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703446260626:android:58287becf04952d4887f4b",
+        "android_client_info": {
+          "package_name": "com.example.restart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbLCKTXPMi5MKGxOo-1RlyWfBqCPMlTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
